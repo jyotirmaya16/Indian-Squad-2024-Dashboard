@@ -2,8 +2,7 @@
 ### Preview 
 #### Link to site: [click her👆🏻](https://public.tableau.com/app/profile/jyotirmaya.maharana/viz/indiasquaddashboard/Dashboard1)
 
-![ipl preview 1](https://github.com/jyotirmaya16/Indian-Squad-2024-Dashboard/assets/146333462/a96dc844-d23a-4fb1-8292-ec14af1412e1)
-
+![ipl preview 1](https://github.com/jyotirmaya16/Indian-Squad-2024-Dashboard/assets/146333462/d0a2aa09-ea8e-4f0a-87dc-cdbe8c385a9a)
 
 ## Project Overview
 This project visualizes the IPL statistics of Indian players who are nominated for the T20 World Cup 2024. The dashboard is created using Tableau and provides dynamic insights into player performance through various KPIs and charts.
